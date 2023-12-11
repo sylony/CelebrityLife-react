@@ -1,1 +1,0 @@
-# CelebrityLife-react
